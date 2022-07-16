@@ -45,7 +45,6 @@ void Engine::start()
                 }
             }
         }
-        //std::cout << m_graphics->get_width() << m_graphics->get_height() << '\n';
         update();
         render();
     }
