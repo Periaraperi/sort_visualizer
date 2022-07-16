@@ -17,6 +17,13 @@ I have provided 64 bit mingw version and visual c++ version in 'external' direct
 You can change CMakeLists.txt to use either one, or set sdl2 yourself so it will work in IDE.
 Don't forget to copy sdl2.dll file in your executable's directory 
 
+# controls
+- r - to reset array
+- p - to pause execution
+- s - to start/resume execution
+- up arrow - increase size of array
+- down arrow - decrease size of array
+
 # preview
 
 ![](bubble_sort.gif)
