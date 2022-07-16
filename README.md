@@ -18,3 +18,5 @@ You can change CMakeLists.txt to use either one, or set sdl2 yourself so it will
 Don't forget to copy sdl2.dll file in your executable's directory 
 
 # preview
+
+![grab-landing-page]https://github.com/Periaraperi/sort_visualizer/blob/main/bubble_sort.gif
