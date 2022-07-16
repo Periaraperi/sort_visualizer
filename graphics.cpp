@@ -1,4 +1,4 @@
-#include "Graphics.h"
+#include "graphics.h"
 
 bool Graphics::m_initialised = false;
 Graphics* Graphics::m_instance = nullptr;
