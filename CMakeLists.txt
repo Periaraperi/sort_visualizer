@@ -4,7 +4,7 @@ project(sort_visualizer)
 
 set (CMAKE_CXX_STANDARD 11)
 
-set(SRCS main.cpp)
+set(SRCS main.cpp engine.h engine.cpp graphics.h graphics.cpp bubble_sort.h bubble_sort.cpp)
 
 add_executable(${PROJECT_NAME} ${SRCS})
 
